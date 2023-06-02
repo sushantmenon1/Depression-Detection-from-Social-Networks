@@ -21,9 +21,3 @@ The following libraries are required to run the project:
 - Achieves an 80% precision rate for depression detection.
 - Enhances accuracy through the integration of machine learning models and neural networks.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/depression-detection.git
